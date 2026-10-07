@@ -1,0 +1,6 @@
+{
+  "name": "दैनिक संवाद - हिंदी समाचार पोर्टल",
+  "description": "निष्पक्ष, निर्भीक और सटीक हिंदी समाचार पोर्टल। राष्ट्रीय, अंतरराष्ट्रीय, खेल, राजनीति, मनोरंजन, बिजनेस और तकनीक की ताज़ा खबरें व वीडियो।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
